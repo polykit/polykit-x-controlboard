@@ -13,3 +13,8 @@ Related repositories:
 * Input Board: _soon_
 * Software: _soon_
 * Power Supply: https://github.com/polykit/eurorack-psu
+
+## References
+
+https://www.ti.com/lit/an/slva704/slva704.pdf
+https://github.com/horfee/kicad-packages3D/tree/master/Rotary_Encoder.3dshapes
