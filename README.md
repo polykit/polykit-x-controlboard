@@ -4,7 +4,7 @@ _THIS IS NOT A FINISHED PRODUCT IN ANY WAY AND STILL UNDER HEAVY DEVELOPMENT - U
 
 This repository contains Kicad schematics and PCB layout of a control board for a polyphonic synthesizer.
 
-Video for details: https://makertube.net/w/uSAVuuU3anjT68nPQuquux
+There is a video playlist on the design process https://makertube.net/w/p/3N2fRjXwT2SfAUv2VkMy3e
 
 ![Polykit X8 Main Board Rendering](polykit-x-controlboard-rendering.jpg)
 
